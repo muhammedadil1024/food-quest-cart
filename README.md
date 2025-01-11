@@ -1,8 +1,8 @@
 # Food Quest - Food ordering app
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React Js](https://img.shields.io/badge/React%20Js-61dafb)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React Js](https://img.shields.io/badge/React%20Js-61dafb) ![Swiggy API](https://img.shields.io/badge/Swiggy%20Public%20API-V3-FC8019)
 
-![Demo App](/static/demo-lawfirm.png)
+![Demo App](/src/assets/demo-foodquest.png)
 
 ## 🧐 About the Project
 
@@ -12,9 +12,10 @@
 
 ## ✨ Features
 
-- *Adding Clients*: User can Add or Create Clients and their detail on `Clients` Page. Options for Edit and Delete the User information when they want
-- *Managing Lawyers Information List*: User can Add, Edit and Delete Lawyers Information on `Lawyers` Page.
-- *Handling Case details and Status*: User can Add or Create a Case details with the details of Listed Clients and appropriate Lawyers on `Cases` Page and they can Edit or Update the Status of Case. Like others User can Delete data when they want.
+- *Restaurants List*: Users can view a list of available `Restaurants` on the home or landing page.
+- *Restaurant Search*: Users can search for a specific `Restaurant by Name` within the listed restaurants.
+- *Restaurant Details and Menu*: By clicking on a specific restaurant, users can view detailed `information about the Restaurant` along with a list of `Menu items`.
+- *Add To Cart Functionality*: On the restaurant details page, users can `Add menu items` to their cart. On the cart page, users can `adjust the quantity` of items and proceed to `Checkout` to place an order.
 
 ---
 

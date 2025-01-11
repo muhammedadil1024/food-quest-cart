@@ -58,7 +58,7 @@ const Checkout = () => {
         <div className="max-w-5xl mx-auto p-2 sm:p-6 space-y-6">
             <Toaster richColors position="top-center" />
             <h2 className="text-xl sm:text-2xl text-center font-bold mb-4">Checkout</h2>
-            <h3 className="text-lg sm:text-xl font-semibold py-2">Enter your address or Please select an address</h3>
+            <h3 className="text-lg sm:text-xl font-semibold py-2">Enter your address or Please select an address:</h3>
             {/* Form and Address Selection */}
             <div className="flex gap-6 flex-col sm:flex-row">
                 {/* Address Form */}

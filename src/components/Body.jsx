@@ -34,6 +34,7 @@ const Body = () => {
                     placeholder="Search"
                     value={searchText}
                     onChange={(e) => setSearchText(e.target.value)}
+                    required
                 />
                 <button
                     type="button"
