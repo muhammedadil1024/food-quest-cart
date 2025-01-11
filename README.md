@@ -1,6 +1,6 @@
 # Food Quest - Food ordering app
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React Js](https://img.shields.io/badge/React%20Js-61dafb) ![Swiggy API](https://img.shields.io/badge/Swiggy%20Public%20API-V3-FC8019)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React Js](https://img.shields.io/badge/React%20Js-61dafb) ![Swiggy API](https://img.shields.io/badge/Swiggy%20Public%20API-FC8019)
 
 ![Demo App](/src/assets/demo-foodquest.png)
 
