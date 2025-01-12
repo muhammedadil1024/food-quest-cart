@@ -37,7 +37,7 @@
 
 * Download Zip or Clone the repository
 ```shell
-    git https://github.com/muhammedadil1024/food-quest-cart.git
+    git clone https://github.com/muhammedadil1024/food-quest-cart.git
 ```
 
 ```shell
